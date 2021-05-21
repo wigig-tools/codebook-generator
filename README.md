@@ -13,8 +13,5 @@ Here is a sample snapshot for our Codebook Generator Application:
 
 ![Snapshot for our Codebook Generator App](CodebookSnapshot.png)
 
-# Download Information:
-We plan to release the App to the public around June 2019.
-
 # Author Information:
-The IEEE 802.11ad Codebook Generator Application is developed and maintained by [Hany Assasa](http://people.networks.imdea.org/~hany_assasa/). For more information about my research work, please check my personal website.
+The IEEE 802.11ad/ay Codebook Generator Application is developed and maintained by [Hany Assasa](https://www.linkedin.com/in/hany-assasa/).
